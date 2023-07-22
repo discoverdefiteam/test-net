@@ -44,7 +44,7 @@ should return `5e7bc1d51e1a12318ed49ba90b03f76680af8d8ccc4f113b8179860849941a05`
 
 #### create a shell variable for the seeds 
 ```
-export SEEDS="74d89379b11badacff139e57b553202072a162c1@173.230.130.51:26656"
+export SEEDS="a6ee57fb457f71530d165afd1901d0d62cd7d7e0@terp-testnet-seed.itrocket.net:13656"
 ```
 #### check that the shell variable is set up properly
 ```
